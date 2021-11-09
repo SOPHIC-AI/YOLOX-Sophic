@@ -17,7 +17,7 @@ This repo is an implementation of PyTorch version YOLOX, there is also a [MegEng
 
 Step1. Install YOLOX.
 ```shell
-git clone git@github.com:Megvii-BaseDetection/YOLOX.git
+git clone https://github.com/SOPHIC-AI/YOLOX-Sophic
 cd YOLOX
 pip3 install -r requirements.txt
 ```
